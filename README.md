@@ -30,3 +30,4 @@
 **Если совсем тупик и не знаете как приступить к выполнению задачи, вы можете ознакомиться с:**     
 ###  [Возможный путь решения](https://github.com/schoolteacherMP/lecture_X_JS_tic-tac-toe/blob/main/answer.md)   
 
+
